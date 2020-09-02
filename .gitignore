@@ -6,3 +6,6 @@ tikkle-288117-d97e31432e3f.json
 
 # 파이썬 venv 파일들
 venv/*
+
+# 민감 데이터
+src/Data/sensitiveData.py
